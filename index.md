@@ -60,7 +60,7 @@ IBM {
 	margin: 0;
 	padding: 32px 0 36px 85px;
 	list-style: none;
-	background-image: url("/assets/logos/IBM.png");
+	background-image: url("./assets/logos/IBM.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 50px;
