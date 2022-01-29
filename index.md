@@ -32,7 +32,7 @@ piaaza {
 	margin: 0;
 	padding: 32px 0 36px 85px;
 	list-style: none;
-	background-image: url("/assets/logos/piazza.png");
+	background-image: url("./assets/logos/piazza.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 75px;
@@ -41,7 +41,7 @@ autolab {
 	margin: 0;
 	padding: 32px 0 36px 85px;
 	list-style: none;
-	background-image: url("/assets/logos/autolab.svg");
+	background-image: url("./assets/logos/autolab.svg");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 45px;
@@ -50,7 +50,7 @@ slack {
 	margin: 0;
 	padding: 32px 0 36px 85px;
 	list-style: none;
-	background-image: url("/assets/logos/slack.png");
+	background-image: url("./assets/logos/slack.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 40px;
