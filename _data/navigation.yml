@@ -1,0 +1,29 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Lectures"
+    url: /lectures/
+  - title: "Projects"
+    url: /projects/
+
+projects:
+  - title: Project 1 -- Git Management
+    url: /projects/
+    children:
+      - title: "Environment"
+        url: /projects/#environment
+      - title: "Run"
+        url: /projects/#run
+      - title: "Submit"
+        url: /projects/#submit
+
+  - title: Project 2 -- IBM server
+    url: /projects2/
+    children:
+      - title: "Environment"
+        url: /projects2/#environment
+      - title: "Run"
+        url: /projects2/#run
+      - title: "Submit"
+        url: /projects2/#submit
