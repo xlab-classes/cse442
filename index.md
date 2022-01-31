@@ -23,6 +23,10 @@ practice. While many mistakes are expected, the intent is that students apprecia
 choices and can avoid duplicating these mistakes later in the term and (more important) in their future careers.
 </p>
 
+**Class Schedule**
+- M/W/F 3:00 pm -3:50pm EST
+- In Person at NSC 215 (Class is also recorded)
+
 ## 1. Prerequisites
 
 - Passed CSE 250
@@ -112,9 +116,24 @@ td, th {
 </a>
 </ul>
 
+## 3. Textbook and Materials 
+<p style='font-size:18px; text-align:justify'>
+There is no required textbook for this course. There will be required readings throughout the term and these readings will be a mix of articles by practicing software engineers and descriptions of how to carry these ideas through.  
+</p>
+<p style='font-size:18px; text-align:justify'>
+Readings will be available as links on the course website and should be completed for the lecture in which they are listed. 
+</p>
 
-## 3. Course Logistics 
-#### 3.1 Composition
+## 4. Student Learning Outcome
+
+## 5. Computing Resources
+
+## 6. Course Requirements
+
+
+
+## 7. Course Logistics 
+### 7.1 Composition
 <table>
   <tr>
     <td>Project Signup & Writeup</td>
@@ -150,7 +169,7 @@ td, th {
   </tr>
 </table>
 
-#### 3.2 Grade Policy
+### 7.2 Grade Policy
 There is **No Curve** for this course, the final letter grade is based upon the following cutoffs:
 <table>
   <tr>
@@ -182,7 +201,7 @@ There is **No Curve** for this course, the final letter grade is based upon the 
 </table>
 
 
-#### 3.3 About Projects
+### 7.3 About Projects
 <p style='font-size:18px;text-align:justify'>
 Each team will complete their project over a series of 4 sprints. The work in each sprint will be presented and graded during
 each group's usual project manager meeting times, mostly during their weekly recitations.
@@ -195,7 +214,7 @@ policy violation by both the student submitting others' work as their own AND th
 copied.</u></i>
 </p>
 
-###### 3.3.1 Grading and Project Manager
+#### 7.3.1 Grading and Project Manager
 <p style='font-size:18px; text-align:justify'>
 The Sprint sessions will be led by students from the CSE404 Software Project Management course during recitations (and other additional time slots at students choice). During those presentations, it is the team’s responsibility to demonstrate that they have met each of the criteria from the grading rubric. The project managers will provide feedback on the students' sprint performance, but the end-of-sprint grade will be done by instructors based on the project progress, <b>NOT</b> by the group's project manager.
 </p>
@@ -207,14 +226,14 @@ team's project manager. The instructor reserves the right to manually adjust ind
 of effort is significantly different across members that has not been accounted for by meeting preparedness adjustments.
 </p>
 
-###### 3.3.2 Final Project Presentation (10% of total course grade)
+#### 7.3.2 Final Project Presentation (10% of total course grade)
 <p style='font-size:18px; text-align:justify'>
 Students will present a sales demo of their completed project with content and style that is appropriate for a commercial demo.
 These sales demos will need to be <b>7 – 9</b> minutes and take place during the last weeks of lecture and the final exam period. Each team will need to write a project report and repare a pre-recorded video recording of the same demo for submission. A
 detailed grading rubric for these presentations will be available on the course website.
 </p>
 
-#### 3.4 In-class Activities and Assignments (10% of final course grade)
+### 7.4 In-class Activities and Assignments (10% of final course grade)
 <p style='font-size:18px; text-align:justify'>
 Throughout the term, individuals and groups will work on activities and assignments related to the course material. These activities will require
 that students reflect on the software engineering concepts presented in lectures/lecture videos before answering questions on
@@ -223,16 +242,16 @@ saved as a PDF file and submitted via AutoLab. Since these activities and assign
 learning outcomes, it is important that all students participate. 
 </p>
 
-#### 3.5 Deadlines and Late Submission Policy
-
+### 7.5 Deadlines and Late Submission Policy
+<p style='font-size:18px; text-align:justify'>
 There is no exception to meeting the deadlines (except legitimate medical conditions). For students having known medical conditions, please send emails to the Instructor in the first week of the semester (by mid-night Friday, Feb 2, 2022) or as soon as their official enrollment into this class to arrange approiate accomodations. Beyond the specified deadlines, all students will be treated equally for the deadlines. For emergent medical conditions, the students need to send the Instructor the official medical docotor's note to certify the need for special accommodation - (There are <b>NO</b>) needs for mentioning the medical conditions) - within three-days of missing the deadlines.
+</p>
 
-- Due in the noon on Feb 11, team forming (5%)
-- Due in the week of Feb 21 during your respective recitation for Sprint 1 project progress and demos (15%)
-- Due in the week of March 14 during your respective recitation for Sprint 2 project progress and demos (20%)
-- Due in the week of April 4 during your respective recitation for Sprint 3 project progress and demos (20%)
-- Due in the week of May 2 during your respective recitation for Sprint42 project progress and demos (20%)
-- Due in the Final week of May 9 to present your project presentation and demos to the Instructor (5%)
-- Due in the noon on May 13 for final project report and recorded video demo (5%)
-
+- Due in the noon on **Feb 11**, team forming (5%)
+- Due in the week of **Feb 21** during your respective recitation for Sprint 1 project progress and demos (15%)
+- Due in the week of **March 14** during your respective recitation for Sprint 2 project progress and demos (20%)
+- Due in the week of **April 4** during your respective recitation for Sprint 3 project progress and demos (20%)
+- Due in the week of **May 2** during your respective recitation for Sprint42 project progress and demos (20%)
+- Due in the Final week of **May 9** to present your project presentation and demos to the Instructor (5%)
+- Due in the noon on **May 13** for final project report and recorded video demo (5%)
 
