@@ -209,8 +209,10 @@ detailed grading rubric for these presentations will be available on the course 
 </p>
 
 #### 3.4 Lecture Activities (10% of final course grade)
+<p style='font-size:18px; text-align:justify'>
 Throughout the term, individuals and groups will work on activities related to the course material. These activities will require
 that students reflect on the software engineering concepts presented in lectures/lecture videos before answering questions on
 how they think would be the best way that they could bring those concepts into practice. These documents will need to be
 saved as a PDF file and submitted via AutoLab. Since these activities will also be used to assess department-level student
 learning outcomes, it is important that all students participate. 
+</p>
