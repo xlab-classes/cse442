@@ -225,7 +225,7 @@ learning outcomes, it is important that all students participate.
 
 #### 3.5 Deadlines and Late Submission Policy
 
-There is no exception to meeting the deadlines (except legitimate medical conditions). For students having known medical conditions, please send emails to the Instructor in the first week of the semester (by mid-night Friday, Feb 2, 2022) or as soon as their official enrollment into this class to arrange approiate accomodations. Beyond the specified deadlines, all students will be treated equally for the deadlines. For emergent medical conditions, the students need to send the Instructor the official medical docotor's note to certify the need for special accommodation (<b>NO</b>) needs for the medical conditions) within three-days of missing the deadlines.
+There is no exception to meeting the deadlines (except legitimate medical conditions). For students having known medical conditions, please send emails to the Instructor in the first week of the semester (by mid-night Friday, Feb 2, 2022) or as soon as their official enrollment into this class to arrange approiate accomodations. Beyond the specified deadlines, all students will be treated equally for the deadlines. For emergent medical conditions, the students need to send the Instructor the official medical docotor's note to certify the need for special accommodation - (There are <b>NO</b>) needs for mentioning the medical conditions) - within three-days of missing the deadlines.
 
 - Due in the noon on Feb 11, team forming (5%)
 - Due in the week of Feb 21 during your respective recitation for Sprint 1 project progress and demos (15%)
