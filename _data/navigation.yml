@@ -8,22 +8,19 @@ main:
     url: /projects/
 
 projects:
-  - title: Project 1 -- Git Management
+  - title: Project 1 -- Comming Soon
     url: /projects/
     children:
-      - title: "Environment"
-        url: /projects/#environment
-      - title: "Run"
-        url: /projects/#run
-      - title: "Submit"
-        url: /projects/#submit
+      - title: "Comming Soon"
+        url: /projects/#comming-soon
 
-  - title: Project 2 -- IBM server
-    url: /projects2/
-    children:
-      - title: "Environment"
-        url: /projects2/#environment
-      - title: "Run"
-        url: /projects2/#run
-      - title: "Submit"
-        url: /projects2/#submit
+
+  # - title: Project 2 -- IBM server
+  #   url: /projects2/
+  #   children:
+  #     - title: "Environment"
+  #       url: /projects2/#environment
+  #     - title: "Run"
+  #       url: /projects2/#run
+  #     - title: "Submit"
+  #       url: /projects2/#submit

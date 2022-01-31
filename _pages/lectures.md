@@ -29,9 +29,9 @@ td, th {
     <th>Slides</th>
   </tr>
   <tr>
-    <td>Feb. 1, Tues</td>
+    <td>Jan. 31, Mon.</td>
     <td>Introduction</td>
-    <td><a href="https:/www.google.com">intro1.pdf</a><br><a href="https:/www.google.com">intro2.pdf</a></td>
+    <td><a href="">intro1.pdf</a><br><a href="">intro2.pdf</a></td>
   </tr>
 
 </table>
