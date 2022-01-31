@@ -94,7 +94,7 @@ td, th {
 
 <ul>
 <a href="https://autograder.cse.buffalo.edu/courses/CSE442-s22-real/assessments">
-  <autolab> Submit Lecture Activities</autolab>
+  <autolab> Submit Lecture Quizz</autolab>
 </a>
 </ul>
 
