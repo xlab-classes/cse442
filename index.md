@@ -187,7 +187,21 @@ Course support of learning outcomes: 0 – not supported, 1 – introduce, 2 –
 
 
 ## 5. Computing Resources
-Would update Soon.
+<p style='font-size:18px; text-align:justify'>
+You will be provided with a CSE undergraduate computing account. You may use the undergraduate lab facilities in Baldy 19 and Baldy 21. These facilities are available for use as listed on the course website.  They are on card-access - use your UB card to open the door. For your own safety, and to protect the equipment in the lab, do not open or hold the door open in order to allow other people to gain entry to the lab. All students authorized to use the lab have card access. 
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+As this is an upper-level course, you are expected to be proficient at using the machines in the lab and the Linux operating system. While each team may design a project of their choice, your entire team will need to do whatever learning is required to gain expertise in that environment. A lack of familiarity with your chosen tools is NOT an acceptable excuse for a lack of work. Information about the CSE computing environment can be found at <a href='https://wiki.cse.buffalo.edu/services/'>https://wiki.cse.buffalo.edu/services/</a>
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+You are expected to use your UB e-mail account for all communications with course staff. Always include an informative subject line for your e-mail.
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+<b> If your project requires different computing resources, please discuss with the Instructor for approval.</b>
+</p>
 
 ## 6. Course Requirements
 
