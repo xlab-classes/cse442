@@ -34,6 +34,7 @@ choices and can avoid duplicating these mistakes later in the term and (more imp
 
 Given the intensity of work in this course, no exceptions to these requirements can occur.
 
+
 ## 2. Resources
 
 <style>
@@ -55,7 +56,7 @@ autolab {
 	background-position: left center;
 	background-size: 45px;
 }
-slack {
+zoom {
 	margin: 0;
 	padding: 32px 0 36px 85px;
 	list-style: none;
@@ -105,8 +106,8 @@ td, th {
 </ul>
 
 <ul>
-<a href="https://buffalo.zoom.us/j/7548242736?pwd=cGI2MExZNWpXaE0xZUJaVVh3citrdz09">
-  <slack> TA: Pengyu Yan's Office Hour, Tue/Thurs 3:30--4:30 </slack>
+<a href="Personal Link: https://buffalo.zoom.us/my/pengyu?pwd=cGI2MExZNWpXaE0xZUJaVVh3citrdz09">
+  <zoom> TA: Pengyu Yan's Office Hour Tue/Thu 3:30-4:30pm </zoom>
 </a>
 </ul>
 
@@ -125,10 +126,112 @@ Readings will be available as links on the course website and should be complete
 </p>
 
 ## 4. Student Learning Outcome
+<p style='font-size:18px; text-align:justify'>
+This course serves as a capstone course for the computer science major. It covers all 6 student learning outcomes from the ABET Computer accreditation standards. A mapping of the student learning outcomes and instruments used to assess these outcomes are:
+</p>
+<table>
+  <tr>
+    <th>Upon successful completion of this course a student will be able to…</th>
+    <th>Assessment Instruments</th>
+  </tr>
+  <tr>
+    <td>1. Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions. </td>
+    <td>Activities, Final Presentation</td>
+  </tr>
+  <tr>
+    <td>2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.</td>
+    <td>Activities, Course Project</td>
+  </tr>
+  <tr>
+    <td>3. Communicate effectively in a variety of professional contexts</td>
+    <td>Course Project, Final Presentation</td>
+  </tr>
+  <tr>
+    <td>4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.</td>
+    <td>Activities</td>
+  </tr>
+  <tr>
+    <td>5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.</td>
+    <td>Course Project (Self- and Peer-Assessments)</td>
+  </tr>
+  <tr>
+    <td>6. Apply computer science theory and software development fundamentals to produce computing-based solutions</td>
+    <td>Activities, Course Project</td>
+  </tr>
+</table>
+
+<p style='font-size:18px; text-align:justify'>
+Course support of learning outcomes: 0 – not supported, 1 – introduce, 2 – practice, 3—display mastery
+</p>
+
+<table>
+  <tr>
+    <th>CS ABET Outcome</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+  </tr>
+  <tr>
+    <td><b>Support</b></td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+</table>
+
 
 ## 5. Computing Resources
+Would update Soon.
 
 ## 6. Course Requirements
+
+### 6.1 Lectures
+
+<p style='font-size:18px; text-align:justify'>
+For all but a few lectures, students will have assigned readings. These readings are listed on the course webpage. Lectures will expand and reinforce material from those readings with an assumption that students have completed it. After the class ends, a recording of the lecture will be posted on Panopto. Any PowerPoint deck presented will also be made available via the course website.
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+Lectures will present practical applications of these concepts with the expectation that students incorporate this into their project workflow. Additionally, the class will include occasional activities to provide a chance to reflect and review these concepts. It is important that students remain up-to-date with this material and seek additional help whenever they struggle.
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+Class attendance is mandatory and expected. If you miss a class, you are responsible for talking to your classmate or the instructor to find out what happened. If must miss class for an extended period of time, notify your instructor as soon as possible, and see your instructor immediately upon your return in order to determine how to catch up. If you have missed a significant portion of the semester, it may be recommended that you resign from the course.
+</p>
+
+### 6.2 Project Meetings
+
+<p style='font-size:18px; text-align:justify'>
+Recitation times will be used for teams to have meet time with their project manager. These meetings duplicate a common industry practice: the daily standup.  Daily standups ensure the entire team remains focused, productive, and cohesive. Issues and concerns are also raised in these meeting, though solutions wait until the meeting ends. 
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+Weekly project meetings will also provide opportunities for learning and improvement. For most students, this class will be their first time seeing or using common software engineering practices and everyone gets confused and makes mistakes while they learn. With this expectation, students can use this time to get answers to questions they have about best practices. Project managers can also provide constructive feedback on the team’s work and communications.
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+As in industry, <b>attending these meetings on time and prepared is mandatory.</b>  Arriving between 5 – 15 minutes late will be counted as ½ a skipped meeting; arriving over 15 minutes late is counted as if that meeting were skipped. You can miss or come unprepared to 1 meeting without penalty. At the end of the term, <b>your grade will be decreased 1 step for each additional meeting missed or for which you were unprepared.</b> This means if you earn the points for an A, but missed 2 meetings, your grade would be an A-. If you earn the points for a B, but missed 2 meetings, your grade would be a C+. 
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+This attendance policy is not intended to be punitive, but to make certain teams make progress at an even, consistent pace through the term. But it is also understood that you might be preparing for life beyond graduation and have other important life events. <b>If you know you will not be able to attend a meeting, tell your group & Project Manager in the previous meeting and check with the instructor that this absence can be excused.</b> If you are <b>too sick to attend that day’s meeting, let your group & Project Manager know (if possible) and provide the instructor with documentation</b> of your illness once you return. 
+</p>
+
+### 6.3 Time outside of class
+
+<p style='font-size:18px; text-align:justify'>
+Office hours are another chance for you to get individualized answers to your questions about the course. The instructor has scheduled office hours posted on the course website. Office hours are held on a first-come first-served drop-in basis. <b>No appointment is necessary</b>, but be aware that office hours become increasingly busy as deadlines or exams approach. Plan your use of office hours accordingly. Meetings outside of planned office hours are possible, but if you want to meet outside of planned office hours, you will need to talk to the instructor and see if their schedule allows.
+</p>
+
+<p style='font-size:18px; text-align:justify'>
+New York State Board of Regents regulations specify for every hour of time spent in lecture or recitation, students are expected to spend 2–3 hours on work outside of class. This means that <b>you should expect to spend at least 8 hours each week on readings, meetings, working on your project, and studying.</b>
+</p>
 
 
 
@@ -199,6 +302,7 @@ There is **No Curve** for this course, the final letter grade is based upon the 
     <td>F </td>
   </tr>
 </table>
+If necessary, the instructor may revise these cutoffs downward. 
 
 
 ### 7.3 About Projects
@@ -255,3 +359,32 @@ There is no exception to meeting the deadlines (except legitimate medical condit
 - Due in the Final week of **May 9** to present your project presentation and demos to the Instructor (5%)
 - Due in the noon on **May 13** for final project report and recorded video demo (5%)
 
+## 8. Incomplete Grades
+
+<p style='font-size:18px; text-align:justify'>
+We will follow the UB Undergraduate Catalog Statement on Incomplete Grades, found in the Undergraduate Catalog.  Generally, incomplete (“I”) grades are not given. However, very rarely, circumstances truly beyond a student's control prevents him or her from completing work in the course. In such cases the instructor can give a grade of “I”. The student will be given instructions and a deadline for completing the work, usually no more than 30 days past the end of the semester. University and department policy dictate that “I” grades can be given only if the following conditions are met:
+</p>
+
+<ul style='font-size:18px; text-align:justify'>
+<li>	An Incomplete will only be given for missing a small part of the course. </li>
+<li>	An Incomplete will only be given when the student misses work due to circumstances beyond his/her control. </li>
+<li>	An Incomplete will only be given when the student is passing the course except for the missed material. </li>
+<li>	An Incomplete is to be made up with the original course instructor within the time specified by the appropriate University regulation (see appropriate document above), and usually within the following semester. </li>
+<li>	An Incomplete will not be given to allow the student to informally retake the entire course, and have that grade count as the grade of the original course. </li>
+</ul>
+
+<p style='font-size:18px; text-align:justify'>
+Incompletes cannot be given as a shelter from poor grades. It is your responsibility to make a timely resignation from the course if you are doing poorly for any reason. The last day to resign the course is Friday, April 16, 2021.
+</p>
+
+## 9. Diversity
+
+<p style='font-size:18px; text-align:justify'>
+The UB School of Engineering and Applied Sciences considers the diversity of its students, faculty, and staff to be a strength, critical to our success. We are committed to providing a safe space and a culture of mutual respect and inclusiveness for all. We believe a community of faculty, students, and staff who bring diverse life experiences and perspectives leads to a superior working environment, and we welcome differences in race, ethnicity, gender, age, religion, language, intellectual and physical ability, sexual orientation, gender identity, socioeconomic status, and veteran status. 
+</p>
+
+## 10. Accessibility Resources 
+
+<p style='font-size:18px; text-align:justify'>
+If you have any disability which requires reasonable accommodations to enable you to participate in this course, please contact the Office of Accessibility Resources in 60 Capen Hall, 716-645-2608 and also the instructor of this course during the first week of class. The office will provide you with information and review appropriate arrangements for reasonable accommodations, which can be found on the web at: <a href='http://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html'>http://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html</a>.
+</p>
