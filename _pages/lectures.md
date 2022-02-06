@@ -37,7 +37,7 @@ td, th {
   </tr>
   <tr>
     <td>Feb 2, Wed.</td>
-    <td>Introduction</td>
+    <td>Project Design Thinking</td>
     <td><a href="https://buffalo.box.com/s/xyj8j49hg6zkr1kp04i49x2dbf2xpkxc">Lec02_Project_DesignThinking.pdf</a></td>
     <td><a href="https://buffalo.box.com/s/cmvknej815pn3jpbop55wapk9i97u5sn">Lec02_Video</a></td>
   </tr>
