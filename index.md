@@ -27,6 +27,10 @@ choices and can avoid duplicating these mistakes later in the term and (more imp
 - M/W/F 3:00 pm -3:50pm EST
 - In Person at NSC 215 (Class is also recorded)
 
+**Office Hours**
+- Wed: 12:30 - 1:30 pm EST
+- In Person at Davis Hall 316
+
 ## 1. Prerequisites
 
 - Passed CSE 250
@@ -106,7 +110,7 @@ td, th {
 </ul>
 
 <ul>
-<a href="Personal Link: https://buffalo.zoom.us/my/pengyu?pwd=cGI2MExZNWpXaE0xZUJaVVh3citrdz09">
+<a href="https://buffalo.zoom.us/my/pengyu?pwd=cGI2MExZNWpXaE0xZUJaVVh3citrdz09">
   <zoom> TA: Pengyu Yan's Office Hour Tue/Thu 3:30-4:30pm </zoom>
 </a>
 </ul>
@@ -365,13 +369,20 @@ learning outcomes, it is important that all students participate.
 There is no exception to meeting the deadlines (except legitimate medical conditions). For students having known medical conditions, please send emails to the Instructor in the first week of the semester (by mid-night Friday, Feb 2, 2022) or as soon as their official enrollment into this class to arrange approiate accomodations. Beyond the specified deadlines, all students will be treated equally for the deadlines. For emergent medical conditions, the students need to send the Instructor the official medical docotor's note to certify the need for special accommodation - (There are <b>NO</b>) needs for mentioning the medical conditions) - within three-days of missing the deadlines.
 </p>
 
-- Due in the noon on **Feb 11**, team forming (5%)
+- Due in the noon on **Feb 12**, team forming. See details below (5%)
 - Due in the week of **Feb 21** during your respective recitation for Sprint 1 project progress and demos (15%)
 - Due in the week of **March 14** during your respective recitation for Sprint 2 project progress and demos (20%)
 - Due in the week of **April 4** during your respective recitation for Sprint 3 project progress and demos (20%)
 - Due in the week of **May 2** during your respective recitation for Sprint42 project progress and demos (20%)
 - Due in the Final week of **May 9** to present your project presentation and demos to the Instructor (5%)
 - Due in the noon on **May 13** for final project report and recorded video demo (5%)
+
+### 7.6 Team forming
+<p style='font-size:18px; text-align:justify'>
+	Exactly 1 member of your team needs to use <a href="https://classroom.github.com/a/IRQSUdVo">this link</a> to the GitHub classroom to setup your repo.
+	After creating your team, there will be a team’s <a href="https://github.com/xlab-classes">private repo</a> at GitHub.
+The student creating the team will need to add the other team members to their team project.
+</p>
 
 ## 8. Incomplete Grades
 
