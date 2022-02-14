@@ -257,11 +257,7 @@ New York State Board of Regents regulations specify for every hour of time spent
 ### 7.1 Composition
 <table>
   <tr>
-    <td>Project Signup & Writeup</td>
-    <td>2%</td>
-  </tr>
-  <tr>
-    <td>Sprint 1 - team forming </td>
+    <td>Sprint 1 - Team Forming/Project Proposal</td>
     <td>5%</td>
   </tr>
   <tr>
