@@ -75,7 +75,7 @@ td, th {
     <td>Feb 14, Fri.</td>
     <td>Stories</td>
     <td><a href="https://buffalo.box.com/s/zno2udx0h5r67smji0r3zl01cvezlxo0">Lec07_Stories.pdf</a></td>
-    <td><a href="">/About to Update/</a></td>
+    <td></td>
   </tr>
 
 </table>
