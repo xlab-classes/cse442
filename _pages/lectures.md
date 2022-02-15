@@ -55,20 +55,26 @@ td, th {
   </tr>
   <tr>
     <td>Feb 9, Wed.</td>
-    <td>Open Source Projects: Kui and Iter8</td>
+    <td>Open Source Project List</td>
     <td><a href="https://buffalo.box.com/s/s72uccymhy59fem2mah3yi9agkfrlfq4">Open Source Project List.pdf</a></td>
     <td><a href="https://buffalo.zoom.us/rec/share/Z-2RlDS5lZCFFY3xCd-em6XgyBVq5Yc21Rr-EJoyQxRCI8GXvUgVytr-P2QFEZ43.NORnkTRO1yUH6iV2?startTime=1644436774000">Lecture Recording Video</a></td>
   </tr>
   <tr>
-    <td>Feb 11, Fri.</td>
-    <td>Open Source Projects: Kui and Iter8</td>
+    <td>Feb 9, Wed.</td>
+    <td>CodeFlare</td>
     <td><a href="https://buffalo.box.com/s/ot3ovda85zzhozdtvy9fhdhnk40y2if3">Lec05_CodeFlare.pdf</a></td>
-    <td><a href="">/About to Update/</a></td>
+    <td></td>
   </tr>
    <tr>
-    <td>Feb 14, Mon.</td>
-    <td>Open Source Projects: Kui and Iter8</td>
+    <td>Feb 11, Fri.</td>
+    <td>Agile</td>
     <td><a href="https://buffalo.box.com/s/bpm1fa4rslnl4sfvsguh738swul3x1xj">Lec06_Agile.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 14, Fri.</td>
+    <td>Stories</td>
+    <td><a href="https://buffalo.box.com/s/zno2udx0h5r67smji0r3zl01cvezlxo0">Lec07_Stories.pdf</a></td>
     <td><a href="">/About to Update/</a></td>
   </tr>
 
