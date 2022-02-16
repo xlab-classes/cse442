@@ -365,10 +365,13 @@ learning outcomes, it is important that all students participate.
 There is no exception to meeting the deadlines (except legitimate medical conditions). For students having known medical conditions, please send emails to the Instructor in the first week of the semester (by mid-night Friday, Feb 2, 2022) or as soon as their official enrollment into this class to arrange approiate accomodations. Beyond the specified deadlines, all students will be treated equally for the deadlines. For emergent medical conditions, the students need to send the Instructor the official medical docotor's note to certify the need for special accommodation - (There are <b>NO</b>) needs for mentioning the medical conditions) - within three-days of missing the deadlines.
 </p>
 
+<p style='font-size:18px; text-align:justify'> All grades will be done the following week of each Sprint.
+	</p>
+	
 - Due in the noon on **Feb 12**, team forming. See details below (5%)
 - Due in the week of **Feb 21** during your respective recitation for Sprint 1 project progress and demos (15%)
 - Due in the week of **March 14** during your respective recitation for Sprint 2 project progress and demos (20%)
-- Due in the week of **April 4** during your respective recitation for Sprint 3 project progress and demos (20%)
+- Due in the week of **April 11** during your respective recitation for Sprint 3 project progress and demos (20%)
 - Due in the week of **May 2** during your respective recitation for Sprint42 project progress and demos (20%)
 - Due in the Final week of **May 9** to present your project presentation and demos to the Instructor (5%)
 - Due in the noon on **May 13** for final project report and recorded video demo (5%)
