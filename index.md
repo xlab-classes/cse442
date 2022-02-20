@@ -325,12 +325,6 @@ Each team will complete their project over a series of 4 sprints. The work in ea
 each group's usual project manager meeting times, mostly during their weekly recitations.
 </p>
 
-<p style='font-size:18px;text-align:justify'>
-<i><u>*To ensure that credit is earned only by students who participated in its creation, each of the sprint's documents and demos will need to be 
-submitted by the students who did the work. Allowing a student who was not in attendance or did not contribute to the document is an academic integrity
-policy violation by both the student submitting others' work as their own AND the students who allowed their material
-copied.</u></i>
-</p>
 
 #### 7.3.1 Grading and Project Manager
 <p style='font-size:18px; text-align:justify'>
@@ -365,8 +359,7 @@ learning outcomes, it is important that all students participate.
 There is no exception to meeting the deadlines (except legitimate medical conditions). For students having known medical conditions, please send emails to the Instructor in the first week of the semester (by mid-night Friday, Feb 2, 2022) or as soon as their official enrollment into this class to arrange approiate accomodations. Beyond the specified deadlines, all students will be treated equally for the deadlines. For emergent medical conditions, the students need to send the Instructor the official medical docotor's note to certify the need for special accommodation - (There are <b>NO</b>) needs for mentioning the medical conditions) - within three-days of missing the deadlines.
 </p>
 
-<p style='font-size:18px; text-align:justify'> All grades will be done in the following week of each Sprint.
-	</p>
+<u>All grades will be done in the following week of each Sprint:</u>
 	
 - Due in the noon on **Feb 14**, team forming. See details below (5%)
 - Due on **Feb 27** for Sprint 1 project progress and demos (all codes checked-in), and the same checked-in demos will be shown to PMs in the following week  during your respective recitation  (15%) 
@@ -376,8 +369,8 @@ There is no exception to meeting the deadlines (except legitimate medical condit
 - Due in the Final week of **May 9** to present your project presentation and demos to the Instructor (5%)
 - Due in the noon on **May 13** for final project report and recorded video demo (5%)
 
-<p style='font-size:18px; text-align:justify'> Note that there are 10% grades for the in-class activities.
-	</p>
+
+\*Note that there are 10% grades for the in-class activities.
 
 ### 7.6 Team forming
 <p style='font-size:18px; text-align:justify'>
