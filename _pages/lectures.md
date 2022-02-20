@@ -72,17 +72,22 @@ td, th {
     <td></td>
   </tr>
   <tr>
-    <td>Feb 14, Fri.</td>
+    <td>Feb 14, Mon.</td>
     <td>Stories</td>
     <td><a href="https://buffalo.box.com/s/zno2udx0h5r67smji0r3zl01cvezlxo0">Lec07_Stories.pdf</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Feb 14, Fri.</td>
+    <td>Feb 16, Wed.</td>
     <td>Stories Boards</td>
     <td><a href="https://buffalo.box.com/s/7d99wd2ced6vhfxkyu972d9cwux6byen">Lec08_StoriesBoards.pdf</a></td>
     <td></td>
   </tr>
-
+  <tr>
+    <td>Feb 18, Fri.</td>
+    <td>Zenhub</td>
+    <td><a href="https://buffalo.box.com/s/w7t6j8k63djuhz6pgykbvrkq4cj1y3ja">Lec09_ZenHub.pdf.pdf</a></td>
+    <td></td>
+  </tr>
 </table>
 
