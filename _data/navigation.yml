@@ -8,12 +8,17 @@ main:
     url: /projects/
 
 projects:
-  - title: Project 1 -- Comming Soon
+  - title: Projects Guidance
     url: /projects/
     children:
-      - title: "Comming Soon"
-        url: /projects/#comming-soon
-
+      - title: ZenHub Management
+        url: /projects/#Zenhub-Management
+      - title: Recitation Meeting Rules
+        url: /projects/#Recitation-Meeting-Rules
+      - title: Sprint Grading
+        url: /projects/#Sprint-Grading
+      - title: Demo Presentation Rubric
+        url: /projects/#Demo-Presentation-Rubric
 
   # - title: Project 2 -- IBM server
   #   url: /projects2/
