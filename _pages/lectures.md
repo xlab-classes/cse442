@@ -86,7 +86,13 @@ td, th {
   <tr>
     <td>Feb 18, Fri.</td>
     <td>Zenhub</td>
-    <td><a href="https://buffalo.box.com/s/w7t6j8k63djuhz6pgykbvrkq4cj1y3ja">Lec09_ZenHub.pdf.pdf</a></td>
+    <td><a href="https://buffalo.box.com/s/w7t6j8k63djuhz6pgykbvrkq4cj1y3ja">Lec09_ZenHub.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 21, Mon.</td>
+    <td>Test Driven Development</td>
+    <td><a href="https://buffalo.box.com/s/hbuvt4w0w8g5obadffvwmevublyx3465">Lec10_TDD.pdf</a></td>
     <td></td>
   </tr>
 </table>
