@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "Lectures"
 permalink: /lectures/
 date: 2022-1-28
