@@ -1,9 +1,11 @@
 ---
-layout: single
+layout: splash
 title: "Lectures"
 permalink: /lectures/
 date: 2022-1-28
 ---
+
+# Lectures
 
 <style>
 table {
@@ -26,8 +28,8 @@ td, th {
   <tr>
     <th>Dates</th>
     <th>Topics</th>
-    <th>Slides (UBID required)</th>
-    <th>Recording (UBID required)</th>
+    <th>Slides (UBmail required)</th>
+    <th>Recording (UBmail required)</th>
   </tr>
   <tr>
     <td>Jan. 31, Mon.</td>
@@ -55,15 +57,9 @@ td, th {
   </tr>
   <tr>
     <td>Feb 9, Wed.</td>
-    <td>Open Source Project List</td>
-    <td><a href="https://buffalo.box.com/s/s72uccymhy59fem2mah3yi9agkfrlfq4">Open Source Project List.pdf</a></td>
-    <td><a href="https://buffalo.zoom.us/rec/share/Z-2RlDS5lZCFFY3xCd-em6XgyBVq5Yc21Rr-EJoyQxRCI8GXvUgVytr-P2QFEZ43.NORnkTRO1yUH6iV2?startTime=1644436774000">Lecture Recording Video</a></td>
-  </tr>
-  <tr>
-    <td>Feb 9, Wed.</td>
-    <td>CodeFlare</td>
-    <td><a href="https://buffalo.box.com/s/ot3ovda85zzhozdtvy9fhdhnk40y2if3">Lec05_CodeFlare.pdf</a></td>
-    <td></td>
+    <td>Open Source Project List <br> Code Flare</td>
+    <td><a href="https://buffalo.box.com/s/s72uccymhy59fem2mah3yi9agkfrlfq4">Open Source Project List.pdf</a> <br> <a href="https://buffalo.box.com/s/ot3ovda85zzhozdtvy9fhdhnk40y2if3">Lec05_CodeFlare.pdf</a></td>
+    <td><a href="https://buffalo.zoom.us/rec/share/Z-2RlDS5lZCFFY3xCd-em6XgyBVq5Yc21Rr-EJoyQxRCI8GXvUgVytr-P2QFEZ43.NORnkTRO1yUH6iV2?startTime=1644436774000">Lecture Recording Video</a> <br> &nbsp;</td>
   </tr>
    <tr>
     <td>Feb 11, Fri.</td>
@@ -93,6 +89,18 @@ td, th {
     <td>Feb 21, Mon.</td>
     <td>Test Driven Development</td>
     <td><a href="https://buffalo.box.com/s/hbuvt4w0w8g5obadffvwmevublyx3465">Lec10_TDD.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 23, Wed.</td>
+    <td>Tests Activity <br> About TA</td>
+    <td><a href="https://buffalo.box.com/s/yki5jmbj9x3rouzrfs8cflkr94m10dai">Lec11_TestsActivity.pdf</a> <br> <a href="https://buffalo.box.com/s/tz13qqkcncupp98og9rqfkgl1s0ddb44">cse442_about_ta.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Feb 25, Fri.</td>
+    <td>Tests</td>
+    <td><a href="https://buffalo.box.com/s/wkgutztu7rnd32tst5hedccdtqp5cza8">Lec12_Tests.pdf</a></td>
     <td></td>
   </tr>
 </table>
