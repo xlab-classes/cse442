@@ -103,5 +103,18 @@ td, th {
     <td><a href="https://buffalo.box.com/s/wkgutztu7rnd32tst5hedccdtqp5cza8">Lec12_Tests.pdf</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Feb 28, Mon.</td>
+    <td>Github Version Control</td>
+    <td><a href="https://buffalo.box.com/s/imphx1arzlylfpidlezk5lc3sn76yhqv">Lec13_VersionControl_Git.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 2, Wed.</td>
+    <td>How to Coding Together As a Team</td>
+    <td><a href="https://buffalo.box.com/s/53fvs5slnog6vkcata0a2t5cqhqvsvxp">Lec14_CodingAsTeam.pdf</a></td>
+    <td></td>
+  </tr>
+
 </table>
 
