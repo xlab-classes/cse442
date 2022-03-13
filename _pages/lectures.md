@@ -121,5 +121,23 @@ td, th {
     <td><a href="https://buffalo.box.com/s/hha290nnd3v2byg5spyy3m44pt6ebp1a">Lec15_Cohesion.pdf</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Mar 7, Mon.</td>
+    <td>Coupling</td>
+    <td><a href="https://buffalo.box.com/s/yf89dxbn2ysmo5qk3wnk3a8ab6vxpyg2">Lec16_Coupling.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 9, Wed.</td>
+    <td>Activities</td>
+    <td><a href="https://buffalo.box.com/s/yxesy0euhgrqpf6wdgbfycyxv1g4lffh">Lec17_Activities.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 11, Fri.</td>
+    <td>Activities</td>
+    <td><a href="https://buffalo.box.com/s/api8rhy10febsezapxktgrccdskmjzcp">Lec18_Activities.pdf</a></td>
+    <td></td>
+  </tr>
 </table>
 
