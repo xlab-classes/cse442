@@ -139,5 +139,23 @@ td, th {
     <td><a href="https://buffalo.box.com/s/api8rhy10febsezapxktgrccdskmjzcp">Lec18_Activities.pdf</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Mar 14, Mon.</td>
+    <td>Testing</td>
+    <td><a href="https://buffalo.box.com/s/c7yrmvjh8v81bg1ncuakmzjetni3arzn">Lec19_Testing.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 16, Wed.</td>
+    <td>Code Standards</td>
+    <td><a href="https://buffalo.box.com/s/aoi03w3tptef9cll13322ohp4fmac4o3">Lec20_CodeStandards.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mar 18, Fri.</td>
+    <td>Testable Design Activity</td>
+    <td><a href="https://buffalo.box.com/s/z4g3rin2iykc3dwg7hzgyg5h4wdcopjv">Lec21_TestableDesignActivity.pdf</a></td>
+    <td></td>
+  </tr>
 </table>
 
