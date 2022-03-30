@@ -157,5 +157,23 @@ td, th {
     <td><a href="https://buffalo.box.com/s/z4g3rin2iykc3dwg7hzgyg5h4wdcopjv">Lec21_TestableDesignActivity.pdf</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Mar 21 - Mar 25.</td>
+    <td>Spring Break</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <!-- <tr>
+    <td>Mar 28, Mon.</td>
+    <td>Testable Design Activity</td>
+    <td><a href="https://buffalo.box.com/s/z4g3rin2iykc3dwg7hzgyg5h4wdcopjv">Lec21_TestableDesignActivity.pdf</a></td>
+    <td></td>
+  </tr> -->
+  <tr>
+    <td>Mar 30, Wed.</td>
+    <td>MLModelScope_Design</td>
+    <td><a href="https://buffalo.box.com/s/5mlb9868talvy3xgkrec49gaz9zr99so">Lec22_MLModelScope_Design.pdf</a></td>
+    <td></td>
+  </tr>
 </table>
 
