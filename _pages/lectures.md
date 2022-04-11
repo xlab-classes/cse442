@@ -175,5 +175,17 @@ td, th {
     <td><a href="https://buffalo.box.com/s/5mlb9868talvy3xgkrec49gaz9zr99so">Lec22_MLModelScope_Design.pdf</a></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Apr 1, Fri.</td>
+    <td>MLModelScope_Design</td>
+    <td><a href="https://buffalo.box.com/s/eec5vg4kjnt4o0og2y5v9q94lwvy5irq">Lec23_MLModelScope_Design.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 4, Mon.</td>
+    <td>MLModelScope_Design</td>
+    <td><a href="https://buffalo.box.com/s/tm2ycpxhhm3svxpxx31qzjexdcgp2ckd">Lec24_MLModelScope_Design.pdf</a></td>
+    <td></td>
+  </tr>
 </table>
 
