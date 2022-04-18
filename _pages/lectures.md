@@ -170,21 +170,57 @@ td, th {
     <td></td>
   </tr> -->
   <tr>
-    <td>Mar 30, Wed.</td>
+    <td>Mar 28, Mon.</td>
     <td>MLModelScope_Design</td>
     <td><a href="https://buffalo.box.com/s/5mlb9868talvy3xgkrec49gaz9zr99so">Lec22_MLModelScope_Design.pdf</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Apr 1, Fri.</td>
+    <td>Mar 30, Wed.</td>
     <td>MLModelScope_Design</td>
     <td><a href="https://buffalo.box.com/s/eec5vg4kjnt4o0og2y5v9q94lwvy5irq">Lec23_MLModelScope_Design.pdf</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>Apr 4, Mon.</td>
+    <td>Apr 1, Fri.</td>
     <td>MLModelScope_Design</td>
     <td><a href="https://buffalo.box.com/s/tm2ycpxhhm3svxpxx31qzjexdcgp2ckd">Lec24_MLModelScope_Design.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 4, Mon.</td>
+    <td>Secure Coding 1</td>
+    <td><a href="https://buffalo.box.com/s/lbpzj9t1ingoi6dapkzz2gbsrt7po7r9">Lec25_SecureCoding1.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 6, Wed.</td>
+    <td>Secure Coding 2</td>
+    <td><a href="https://buffalo.box.com/s/rqx57cw1q33434oo2chcogo6zook39ll">Lec26_SecureCoding2.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 8, Fri.</td>
+    <td>Secure Coding 3</td>
+    <td><a href="https://buffalo.box.com/s/8056kzxjqkkbcy6rhyanfwfke1ul4syq">Lec27_SecureCoding3.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 11, Mon.</td>
+    <td>Secure Coding 4</td>
+    <td><a href="https://buffalo.box.com/s/rvytur19a8ra58phzcdpg4jphb58mv01">Lec28_SecureCoding4.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 13, Wed.</td>
+    <td>Ethics Basics</td>
+    <td><a href="https://buffalo.box.com/s/pgpqnnf35tx9ltegvuh3zt8d54al6ew5">Lec29_EthicsBasics.pdf</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apr 15, Fri.</td>
+    <td>Ethics Activities</td>
+    <td><a href="https://buffalo.box.com/s/qvqf2yt4ybqgwjwbs5wlfug9geisxmce">Lec30_EthicsActivities.pdf</a></td>
     <td></td>
   </tr>
 </table>
