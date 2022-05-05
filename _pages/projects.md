@@ -23,6 +23,6 @@ For the rules of each recitation meetings, read the [Recitation Meeting Rules.pd
 
 Detailed sprint grading policy could be found in [SprintGrading.pdf](../assets/project_guidance/SprintGrading.pdf)
 
-### Demo Presentation Rubric
+### Video Demo Presentation Rubric
 
 You could find the grading standard and guidance through the rubric table here [Preseantation Grading Reference.pdf](../assets/project_guidance/PresentationGradeRubric.pdf)
